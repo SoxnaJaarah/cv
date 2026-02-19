@@ -33,12 +33,12 @@ st.markdown("""
 
     /* Style des titres dans la zone grise */
     h1, h2, h3 {
-        color: #2E4053;
+        color: #FFECE1;
     }
     
     /* Séparateur horizontal */
     hr {
-        border: 1px solid #2E4053;
+        border: 1px solid #FFECE1;
     }
     </style>
     """, unsafe_allow_html=True)
