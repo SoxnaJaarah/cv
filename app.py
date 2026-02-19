@@ -36,7 +36,7 @@ st.markdown("""
 
 # --- SIDEBAR (SECTION NOIRE - 30%) ---
 with st.sidebar:
-    [span_1](start_span)st.title("Sokhna Mame Diarra Thiam")[span_1](end_span)
+    st.title("Sokhna Mame Diarra Thiam")
     st.write("---")
     
     st.subheader("Contact")
