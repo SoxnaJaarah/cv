@@ -40,7 +40,7 @@ with st.sidebar:
     st.write("---")
     
     st.subheader("Contact")
-   st.write("📧 [soxnajaarah490@gmail.com](mailto:soxnajaarah490@gmail.com)")
+    [span_2](start_span)st.write("📧 [soxnajaarah490@gmail.com](mailto:soxnajaarah490@gmail.com)")[span_2](end_span)
     [span_3](start_span)st.write("📍 Parcelles Assainies Unité 21, Dakar")[span_3](end_span)
     
     st.write("---")
